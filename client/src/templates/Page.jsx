@@ -3,7 +3,7 @@ import React from 'react'
 const Page = (props) => {
     const { nav } = props
   return (
-    <nav>{nav}</nav>
+    <div>{nav}</div>
   )
 }
 
